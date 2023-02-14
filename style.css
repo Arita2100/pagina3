@@ -40,3 +40,28 @@ body {
         transform: translate(-50%, -50%);
       }
     
+      .Principal {
+        display: inline-block;
+        padding: 10px 10px;
+        background-color: #ffffff;
+        border-radius: 20px;
+        text-decoration: none;
+        position: absolute;
+        top: 95%;
+        left: 40%;
+        transform: translate(-50%, -50%);
+      }
+    
+      .Habilidades {
+        display: inline-block;
+        padding: 10px 10px;
+        background-color: #ffffff;
+        border-radius: 20px;
+        text-decoration: none;
+        position: absolute;
+        top: 95%;
+        left: 60%;
+        transform: translate(-50%, -50%);
+      }
+    
+    
