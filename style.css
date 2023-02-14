@@ -1,0 +1,42 @@
+* {
+    padding:  0 ;
+    margin:  0 ;
+    box-sizing: border-box;
+  }
+
+body {
+    background: rgb(30, 35, 98) no-repeat;
+    background-size: cover;
+  }
+  
+.lista-centrada {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+
+  ul {
+    font-family: 'Poppins';
+  }
+
+  .video {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .boton-enlace {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #ffffff;
+        border-radius: 20px;
+        text-decoration: none;
+        position: absolute;
+        top: 95%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+    
